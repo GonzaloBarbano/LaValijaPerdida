@@ -23,7 +23,7 @@ La build para Windows (.exe) está en la sección **Releases** de este repositor
 
 | Integrante | Matrícula | Rol |
 |---|---|---|
-| Sosa Jorge David | 153203 | Game Design y Narrativa |
+| Soria Jorge David | 153203 | Game Design y Narrativa |
 | Barbano Sumay Gonzalo | 152127 | Programación |
 | Araujo Milagros | 148197 | Arte, UI y Sonido |
 
